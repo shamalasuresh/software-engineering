@@ -2,12 +2,11 @@
 
 ### System
 
-| Command          | Description                                         |
-| ---------------- | --------------------------------------------------- |
-| `docker info`    | Display system-wide information.                    |
-| `docker version` | Show the Docker version information.                |
-| `docker-compose` | Utilize Docker Compose for managing multi-container |
-|                  | applications.                                       |
+| Command          | Description                                                       |
+| ---------------- | ----------------------------------------------------------------- |
+| `docker info`    | Display system-wide information.                                  |
+| `docker version` | Show the Docker version information.                              |
+| `docker-compose` | Utilize Docker Compose for managing multi-container applications. |
 
 ### Registry and Repository
 
