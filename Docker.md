@@ -22,10 +22,8 @@
 
 | Command          | Description                                    |
 | ---------------- | ---------------------------------------------- |
-| `docker images`  | List all available images on the local machine |
-| `docker pull`    | Pull an image or a repository from a registry  |
 | `docker build`   | Build an image from a Dockerfile               |
-| `docker push`    | Push an image or a repository to a registry    |
+| `docker images`  | List all available images on the local machine |
 | `docker rmi`     | Remove one or more images                      |
 | `docker history` | Show the history of an image                   |
 | `docker tag`     | Tag an image into a repository                 |
@@ -70,3 +68,5 @@
 | `docker volume create`  | Create a new volume                                 |
 | `docker volume inspect` | Display detailed information on one or more volumes |
 | `docker volume rm`      | Remove one or more volumes                          |
+
+
