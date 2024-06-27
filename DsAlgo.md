@@ -28,9 +28,10 @@
    6. [Graph](#graph-1)
       1. [Depth First Search](#depth-first-search-1)
       2. [Breadth First Search](#breadth-first-search-1)
-      3. [Topological Sort](#topological-sort)
-      4. [Shortest Path](#shortest-path)
-      5. [Minimum Spanning Tree](#minimum-spanning-tree)
+      3. [Cyclic sort](#cyclic-sort)
+      4. [Topological Sort](#topological-sort)
+      5. [Shortest Path](#shortest-path)
+      6. [Minimum Spanning Tree](#minimum-spanning-tree)
 4. [Techniques](#techniques)
    1. [Sliding Window](#sliding-window)
    2. [Two Pointers or Iterators](#two-pointers-or-iterators)
@@ -42,14 +43,12 @@
    8. [Two heaps](#two-heaps)
    9. [Subsets](#subsets)
    10. [Modified binary search](#modified-binary-search)
-   11. [Cyclic sort](#cyclic-sort)
-   12. [Topological sort](#topological-sort-1)
-   13. [Top K elements](#top-k-elements)
-   14. [Merge Intervals](#merge-intervals)
-   15. [K-way Merge](#k-way-merge)
-   16. [Prefix Sum](#prefix-sum)
-   17. [Substring](#substring)
-   18. [Stock Series](#stock-series)
+   11. [Top K elements](#top-k-elements)
+   12. [Merge Intervals](#merge-intervals)
+   13. [K-way Merge](#k-way-merge)
+   14. [Prefix Sum](#prefix-sum)
+   15. [Substring](#substring)
+   16. [Stock Series](#stock-series)
 5. [Visualization](#visualization)
 
 
@@ -59,7 +58,8 @@
 3. [become-master-in-recursion](https://leetcode.com/discuss/study-guide/1733447/become-master-in-recursion)
 
 ## Data Structures
-1. [William Fiset's Data Structure Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
+1. [Data Structures Animations](https://www.youtube.com/watch?v=bzSKawdzbCw&list=PLFonK3OU1E4qVvtRGBSL0xtXOmzZkLy8x&index=1)
+2. [William Fiset's Data Structure Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
 
 ### String
 1. [Collections-of-Important-String-questions-Pattern](https://leetcode.com/discuss/study-guide/2001789/Collections-of-Important-String-questions-Pattern)
@@ -83,12 +83,14 @@
 ### Tree
 
 ### Binary Search Tree
+1. [Binary Tree Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=fAAZixBzIAI)
 
 ### Heap
 1. [learning-to-love-heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238)
 2. [master-heap-by-solving-23-questions-in-4-patterns-category](https://leetcode.com/discuss/general-discussion/1127238/master-heap-by-solving-23-questions-in-4-patterns-category)
 
 ### Graph
+1. [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
 1. [a-gentle-introduction-to-graph-theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
 2. [William Fiset's Graphs Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
 3. [Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
@@ -102,7 +104,8 @@
 ## Algorithms
 
 ### Sorting
-1. [understanding-sorting-algorithms](https://medium.com/jl-codes/understanding-sorting-algorithms-af6222995c8)
+1. [How to remember these Sorting Algorithms](https://www.youtube.com/watch?v=zuwBCImIyaw)
+2. [understanding-sorting-algorithms](https://medium.com/jl-codes/understanding-sorting-algorithms-af6222995c8)
 
 ### Searching
 
@@ -142,6 +145,8 @@
 #### Breadth First Search
 1. [going-broad-in-a-graph-bfs-traversal](https://medium.com/basecs/going-broad-in-a-graph-bfs-traversal-959bd1a09255)
 
+#### Cyclic sort
+
 #### Topological Sort
 
 #### Shortest Path
@@ -152,6 +157,7 @@
 
 ## Techniques
 1. [14-patterns-to-ace-any-coding-interview-question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+2. [Algorithmic Patterns for Coding Interviews](https://www.youtube.com/watch?v=cpgAULF6Vpw&list=PL7g1jYj15RUOjoeZAJsWjwV8XUo9r0hwc&index=2)
 
 ### Sliding Window
 1. [Maximum-Sliding-Window-Cheatsheet-Template](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/)
@@ -163,6 +169,7 @@
 1. [fast-and-slow-pointer-pattern-in-linked-list](https://medium.com/@arifimran5/fast-and-slow-pointer-pattern-in-linked-list-43647869ac99)
 
 ### Dynamic Programming
+1. [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 1. [less-repetition-more-dynamic-programming](https://medium.com/basecs/less-repetition-more-dynamic-programming-43d29830a630)
 2. [Tushar Roy's Dynamic Programming Playlist](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 3. [Dynamic-Programming-Patterns](https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns)
@@ -181,10 +188,6 @@
 ### Subsets
 
 ### Modified binary search
-
-### Cyclic sort
-
-### Topological sort
 
 ### Top K elements
 
