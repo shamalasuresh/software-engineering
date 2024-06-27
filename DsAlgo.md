@@ -81,6 +81,7 @@
 1. [taking-hash-tables-off-the-shelf](https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0)
 
 ### Tree
+1. [Become-Master-in-Tree](https://leetcode.com/discuss/study-guide/1820334/Become-Master-in-Tree)
 
 ### Binary Search Tree
 1. [Binary Tree Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=fAAZixBzIAI)
@@ -91,9 +92,8 @@
 
 ### Graph
 1. [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
-1. [a-gentle-introduction-to-graph-theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
-2. [William Fiset's Graphs Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
-3. [Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
+2. [a-gentle-introduction-to-graph-theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
+3. [William Fiset's Graphs Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
 
 ### Trie
 1. [trying-to-understand-tries](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014)
@@ -118,9 +118,8 @@
 1. [all-types-of-patterns-for-bits-manipulations-and-how-to-use-it](https://leetcode.com/discuss/study-guide/4282051/all-types-of-patterns-for-bits-manipulations-and-how-to-use-it)
 
 ### Tree
-1. [Become-Master-in-Tree](https://leetcode.com/discuss/study-guide/1820334/Become-Master-in-Tree)
-2. [Iterative-or-Recursive-or-DFS-and-BFS-Tree-Traversal-or-In-Pre-Post-and-LevelOrder-or-Views](https://leetcode.com/discuss/study-guide/937307/Iterative-or-Recursive-or-DFS-and-BFS-Tree-Traversal-or-In-Pre-Post-and-LevelOrder-or-Views)
-3. [TREE-QUESTION-PATTERN-2023-oror-TREE-STUDY-GUIDE](https://leetcode.com/discuss/study-guide/2879240/TREE-QUESTION-PATTERN-2023-oror-TREE-STUDY-GUIDE)
+1. [Iterative-or-Recursive-or-DFS-and-BFS-Tree-Traversal-or-In-Pre-Post-and-LevelOrder-or-Views](https://leetcode.com/discuss/study-guide/937307/Iterative-or-Recursive-or-DFS-and-BFS-Tree-Traversal-or-In-Pre-Post-and-LevelOrder-or-Views)
+2. [TREE-QUESTION-PATTERN-2023-oror-TREE-STUDY-GUIDE](https://leetcode.com/discuss/study-guide/2879240/TREE-QUESTION-PATTERN-2023-oror-TREE-STUDY-GUIDE)
 
 #### Depth First Search
 
@@ -136,8 +135,9 @@
 #### post-order
 
 ### Graph
-1. [leetcode-pattern-1-bfs-dfs-25-of-the-problems-part-1](https://medium.com/leetcode-patterns/leetcode-pattern-1-bfs-dfs-25-of-the-problems-part-1-519450a84353)
-2. [leetcode-pattern-2-bfs-dfs-25-of-the-problems-part-2](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52)
+1. [Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
+2. [leetcode-pattern-1-bfs-dfs-25-of-the-problems-part-1](https://medium.com/leetcode-patterns/leetcode-pattern-1-bfs-dfs-25-of-the-problems-part-1-519450a84353)
+3. [leetcode-pattern-2-bfs-dfs-25-of-the-problems-part-2](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52)
 
 #### Depth First Search
 1. [deep-dive-through-a-graph-dfs-traversal](https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13)
